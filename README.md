@@ -1,8 +1,8 @@
-# konversi-sistem-bilangan
+# konversi-sistem-bilangan1️⃣1️⃣1️⃣
 ---
 Mata Pelajaran : Sistem Komputer
 > Guru Kami      : [Pak Erwin S.kom](pakerwin.md)
-
+build with Android 🤖
 Konversi sistem bilangan menggunakan bahasa C++
 
 Terdapat 4 Sistem Bilangan pada komputer
