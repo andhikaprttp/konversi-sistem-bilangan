@@ -16,3 +16,5 @@ Terdapat 4 Sistem Bilangan pada komputer
 
 
 # Desimal 
+Sistem bilangan desimal adalah sistem standar yang melambangkan bilangan bulat dan bukan bilangan bulat
+sumber : [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Sistem_bilangan_desimal
