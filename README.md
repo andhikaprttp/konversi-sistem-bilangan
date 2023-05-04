@@ -18,6 +18,44 @@ Terdapat 4 Sistem Bilangan pada komputer
 - Untuk konversi dari desimal ke biner, oktal, dan heksadesimal, program menggunakan operasi modulus dan pembagian.
 - Untuk konversi dari biner, oktal, dan heksadesimal ke desimal, program menggunakan perhitungan nilai pangkat yang sesuai dengan masing-masing sistem bilangan.
 
+# Instalasi
+
+- Pertama Buka terminal 
+- Pastikan terdapat [compiler c++](https://en.wikipedia.org/wiki/List_of_compilers) dan git pada terminal anda.
+
+lalu ketik 
+
+```bash
+git clone https://github.com/andhikaprttp/konversi-sistem-bilangan
+
+```
+untuk mendownload program ini.
+
+ketik
+```
+ cd konversi-sistem-bilangan
+
+```
+
+lalu compile file ``main.cpp`` dengan cara 
+> sebagai contoh saya menggunakan clang , kemungkinan berbeda compiler berbeda juga perintah nya 
+
+```
+clang++ main.cpp -o main
+
+```
+
+perintah ``clang++`` untuk mengcompile program
+perintah ``-o`` untuk mengganti nama file output dari proses compile
+
+dan jalankan menggunakan perintah
+
+```
+./main
+
+```
+
+
 
 # Desimal Ke Biner
 Sistem bilangan desimal adalah sistem standar yang melambangkan bilangan bulat dan bukan bilangan bulat
