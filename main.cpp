@@ -112,7 +112,7 @@ int main() {
     default:
         cout << "Pilihan tidak valid" << endl;
         break;
-}
+    }
 
 return 0;
 
