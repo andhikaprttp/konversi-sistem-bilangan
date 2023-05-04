@@ -1,4 +1,8 @@
 # konversi-sistem-bilangan
+---
+Mata Pelajaran : Sistem Komputer
+> Guru Kami      : [Pak Erwin S.kom](pakerwin.md)
+
 Konversi sistem bilangan menggunakan bahasa C++
 
 Terdapat 4 Sistem Bilangan pada komputer
@@ -39,6 +43,6 @@ sumber: [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Sistem_bilangan_bine
             }
             cout << "Bilangan biner: " << hasil << endl;
             return 0;
-   }
+       }
 
 ```
