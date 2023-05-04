@@ -91,4 +91,28 @@ int main() {
             break;
 
         case 6:
-            cout <<
+            cout <<        "Masukkan bilangan heksadesimal: ";
+        cin >> heksadesimal;
+        hasil = 0;
+        pangkat = 0;
+        for (int i = heksadesimal.size() - 1; i >= 0; i--) {
+            if (heksadesimal[i] >= '0' && heksadesimal[i] <= '9') {
+                sisa = heksadesimal[i] - '0';
+            } else if (heksadesimal[i] >= 'A' && heksadesimal[i] <= 'F') {
+                sisa = heksadesimal[i] - 'A' + 10;
+            } else if (heksadesimal[i] >= 'a' && heksadesimal[i] <= 'f') {
+                sisa = heksadesimal[i] - 'a' + 10;
+            }
+            hasil += sisa * pow(16, pangkat);
+            pangkat++;
+        }
+        cout << "Bilangan desimal: " << hasil << endl;
+        break;
+
+    default:
+        cout << "Pilihan tidak valid" << endl;
+        break;
+}
+
+return 0;
+
