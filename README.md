@@ -6,3 +6,5 @@ Terdapat 4 Sistem Bilangan pada komputer
 - Hexadesimal
 - Biner
 - Oktal
+
+# Desimal 
