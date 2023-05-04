@@ -1,12 +1,12 @@
-# konversi-sistem-bilangan1️⃣1️⃣1️⃣
+# konversi-sistem-bilangan
 ---
 Mata Pelajaran : Sistem Komputer
 > Guru Kami      : [Pak Erwin S.kom](pakerwin.md)
-build with Android 🤖
+
 Konversi sistem bilangan menggunakan bahasa C++
 
 Terdapat 4 Sistem Bilangan pada komputer
-- Desimal
+- Desimal 
 - Hexadesimal
 - Biner
 - Oktal
@@ -18,7 +18,7 @@ Terdapat 4 Sistem Bilangan pada komputer
 - Untuk konversi dari desimal ke biner, oktal, dan heksadesimal, program menggunakan operasi modulus dan pembagian.
 - Untuk konversi dari biner, oktal, dan heksadesimal ke desimal, program menggunakan perhitungan nilai pangkat yang sesuai dengan masing-masing sistem bilangan.
 
-# Instalasi
+# Instalasi 📜
 
 - Pertama Buka terminal 
 - Pastikan terdapat [compiler c++](https://en.wikipedia.org/wiki/List_of_compilers) dan git pada terminal anda.
@@ -57,7 +57,7 @@ dan jalankan menggunakan perintah
 
 
 
-# Desimal Ke Biner
+# Desimal Ke Biner 
 Sistem bilangan desimal adalah sistem standar yang melambangkan bilangan bulat dan bukan bilangan bulat
 sumber : [Wikipedia Indonesia](https://id.wikipedia.org/wiki/Sistem_bilangan_desimal)
 
