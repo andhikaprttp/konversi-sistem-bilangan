@@ -21,7 +21,7 @@ Terdapat 4 Sistem Bilangan pada komputer
 # Instalasi 📜
 
 - Pertama Buka terminal 
-- Pastikan terdapat [compiler c++](https://en.wikipedia.org/wiki/List_of_compilers) dan git pada terminal anda.
+- Pastikan terdapat [compiler c++](https://en.wikipedia.org/wiki/List_of_compilers) dan [git](https://git-scm.com/) pada terminal anda.
 
 lalu ketik 
 
@@ -32,17 +32,15 @@ git clone https://github.com/andhikaprttp/konversi-sistem-bilangan
 untuk mendownload program ini.
 
 ketik
-```
+```bash
  cd konversi-sistem-bilangan
-
 ```
 
 lalu compile file ``main.cpp`` dengan cara 
 > sebagai contoh saya menggunakan clang , kemungkinan berbeda compiler berbeda juga perintah nya 
 
-```
+```bash
 clang++ main.cpp -o main
-
 ```
 
 perintah ``clang++`` untuk mengcompile program
