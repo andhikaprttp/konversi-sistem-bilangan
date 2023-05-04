@@ -4,7 +4,12 @@ using namespace std;
 
 int main() {
   int pilihan;
-  int desimal, sisa, pangkat,  hasil, biner,  oktal;
+  int desimal,
+  sisa,
+  pangkat,
+  hasil,
+  biner,
+  oktal;
   string heksadesimal;
   // andhika pratama putra
   // X TEKNIK KOMPUTER DAN JARINGAN
@@ -35,7 +40,6 @@ int main() {
     cout << "Bilangan biner: " << hasil << endl;
     break;
 
-    case 2:
     cout << "Masukkan bilangan desimal: ";
     cin >> desimal;
     hasil = 0;
